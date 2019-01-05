@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ money()
+comment1.params=money
+comment1.target=LossPane(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
